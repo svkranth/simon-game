@@ -1,0 +1,9 @@
+This is Javascript implementation of Simon game.
+For more details on game and how to play please visit - https://en.wikipedia.org/wiki/Simon_(game)
+
+Using this project -
+    1. Download the entire repository to local.
+    2. Copy the path to index.html
+    3. Paste the copied path in browser.
+    4. You are all set to play this game.
+    5. No other installations required unless you want to look at the code or change it.
